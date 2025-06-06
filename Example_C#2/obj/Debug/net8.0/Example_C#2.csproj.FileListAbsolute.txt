@@ -135,3 +135,5 @@ C:\Users\cnguy\OneDrive\Máy tính\FPT-Aptech\C#2\Example_C#2\Example_C#2\obj\De
 C:\Users\cnguy\OneDrive\Máy tính\FPT-Aptech\C#2\Example_C#2\Example_C#2\obj\Debug\net8.0\Example_C#2.pdb
 C:\Users\cnguy\OneDrive\Máy tính\FPT-Aptech\C#2\Example_C#2\Example_C#2\obj\Debug\net8.0\Example_C#2.genruntimeconfig.cache
 C:\Users\cnguy\OneDrive\Máy tính\FPT-Aptech\C#2\Example_C#2\Example_C#2\obj\Debug\net8.0\ref\Example_C#2.dll
+C:\Users\cnguy\OneDrive\Máy tính\FPT-Aptech\C#2\Example_C#2\Example_C#2\obj\Debug\net8.0\Example_C#2.RazorAssemblyInfo.cache
+C:\Users\cnguy\OneDrive\Máy tính\FPT-Aptech\C#2\Example_C#2\Example_C#2\obj\Debug\net8.0\Example_C#2.RazorAssemblyInfo.cs
